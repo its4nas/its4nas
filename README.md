@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Abdullah Al-Dharei</h1>
 <h3 align="center">A passionate Backend developer from Yemen</h3>
 
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://tenor.com/view/viciadoemcodar-gif-26484614" />
+<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its4nas&label=Profile%20views&color=0e75b6&style=flat" alt="its4nas" /> </p>
 
