@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its4nas&label=Profile%20views&color=0e75b6&style=flat" alt="its4nas" /> </p>
 
-- 🔭 I’m currently working on **Talka website**
+- 🔭 I’m currently working on **Graduation Project at Sana'a University**
 
 - 🌱 I’m currently learning **Python & ERP system**
 
