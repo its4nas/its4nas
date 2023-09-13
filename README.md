@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Graduation Project at Sana'a University**
 
-- 🌱 I’m currently learning **Python & ERP system**
+- 🌱 I’m currently learning **Frappe & ERP system**
 
 - 👨‍💻 All of my projects are available at [github.com/its4nas](github.com/its4nas)
 
