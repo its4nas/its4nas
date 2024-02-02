@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/its4nas](github.com/its4nas)
 
-- 💬 Ask me about **Asp.net core or Laravel**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **instgram/its4nas**
 
