@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anas Abdullah Al-Dharei</h1>
-<h3 align="center">A passionate Backend developer from Yemen</h3>
+<h3 align="center">A passionate Full-Stack developer from Yemen</h3>
 
 <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" align="right" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its4nas&label=Profile%20views&color=0e75b6&style=flat" alt="its4nas" /> </p>
 
 - 🔭 I’m currently working on **Graduation Project at Sana'a University**
+
+- 👨‍💻 I’m working at **Best Sight advertising Company**
 
 - 🌱 I’m currently learning **Frappe & ERPNext system**
 
