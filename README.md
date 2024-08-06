@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its4nas&label=Profile%20views&color=0e75b6&style=flat" alt="its4nas" /> </p>
 
-- 🔭 I’m currently working on **Graduation Project at Sana'a University**
+- 🔭 I’m currently working on **Traveling Website using Laravel Framework**
 
 - 👨‍💻 I’m working at **Best Sight advertising Company**
 
-- 🌱 I’m currently learning **Frappe & ERPNext system**
+- 🌱 I’m currently learning **Meta/React**
 
 - 👨‍💻 All of my projects are available at [github.com/its4nas](github.com/its4nas)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel & Frappe Frameworks**
 
 - 📫 How to reach me **instgram/its4nas**
 
