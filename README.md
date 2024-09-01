@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m working at **Best Sight advertising Company**
 
-- 🌱 I’m currently learning **Meta/React**
+- 🌱 I’m currently learning **Vue Framework**
 
 - 👨‍💻 All of my projects are available at [github.com/its4nas](github.com/its4nas)
 
