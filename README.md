@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Traveling Website using Laravel Framework**
 
-- 👨‍💻 I’m working at **Best Sight advertising Company**
+- 👨‍💻 I’m working at **Best Sight Advertising & Technology Company**
 
 - 🌱 I’m currently learning **Vue Framework**
 
