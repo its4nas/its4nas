@@ -13,9 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/its4nas](github.com/its4nas)
 
-- 💬 Ask me about **Laravel & Frappe Frameworks**
+- 💬 Ask me about **Laravel, Frappe Framework and ERP Systems**
 
-- 📫 How to reach me **instgram/its4nas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
